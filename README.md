@@ -1,13 +1,13 @@
 # 👋 Hi, I’m **Fityan Abdul Khalik**
 
-🎓 Fresh graduate in **Information Systems** with a strong passion for **Data Analytics, Business Intelligence, and Data-Driven Decision Making**.  
+🎓 Fresh graduate in **Information Systems** from **Universitas Komputer Indonesia** who comes with a strong passion for **Data Analytics, Business Intelligence, and Data-Driven Decision Making**.  
 💡 I love turning raw data into meaningful insights that help solve real-world problems.
 
 ---
 
 ## 📊 What I Do
 - 🔍 **Data Analysis** – cleaning, transforming, and analyzing data using Python, Excel, and SQL  
-- 📈 **Data Visualization** – creating insightful dashboards with Power BI, Tableau, and Matplotlib  
+- 📈 **Data Visualization** – creating insightful dashboards Matplotlib  
 - 🤖 **Machine Learning (Basic)** – exploring predictive modeling and trend analysis  
 - 🧠 **Business Intelligence** – translating data into strategies and reports for decision-makers  
 
@@ -18,7 +18,7 @@
 | Category | Tools |
 |-----------|--------|
 | **Programming & Query** | Python (Pandas, NumPy), SQL |
-| **Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
+| **Visualization** | Matplotlib, Seaborn |
 | **Data Handling** | Excel, Google Sheets |
 | **Version Control** | Git, GitHub |
 | **Others** | Jupyter Notebook, VS Code |
@@ -34,13 +34,6 @@
   Explored social media engagement around AI tools like ChatGPT & Copilot.  
 
 > 🔗 Check my repositories below for more projects!
-
----
-
-## 🌱 Currently Learning
-- Advanced SQL for Analytics  
-- Data Storytelling & Dashboard Design  
-- Predictive Analysis with Scikit-learn  
 
 ---
 
