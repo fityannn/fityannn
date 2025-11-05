@@ -40,20 +40,20 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fityannn&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fityannn&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fityannn&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 💬 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fityan_Abdul_Khalik-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-fityan@example.com-red?style=for-the-badge&logo=gmail)](mailto:fityan@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fityan_Abdul_Khalik-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/fityann/)  
+[![Email](https://img.shields.io/badge/Email-fityan.abdul@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:fityan.abdul@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge&logo=github)](#)
 
 ---
